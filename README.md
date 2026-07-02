@@ -6,7 +6,7 @@ Building AI systems that amplifies creativity.
 
 ────────────────────────────────────
 
-Currently Focus
+Current Focus
 
 • AI Production Engine V2
 • Organic Content Engine
