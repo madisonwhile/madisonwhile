@@ -1,16 +1,31 @@
-## Hi there 👋
+Madison While
 
-<!--
-**madisonwhile/madisonwhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative Technologist
 
-Here are some ideas to get you started:
+Building AI systems that amplify human creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────
+
+Currently Building
+
+• AI Production Engine V2
+• Organic Content Engine
+• Campaign Engine
+
+Currently Learning
+
+• Python
+• Claude Code
+• Figma
+• Multi-Agent Systems
+• Design Systems
+
+Philosophy
+
+I teach myself by building.
+
+Every project starts with curiosity, turns into an experiment,
+and eventually becomes a system.
+
+Portfolio →
+LinkedIn →
