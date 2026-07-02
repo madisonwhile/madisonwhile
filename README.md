@@ -2,7 +2,7 @@ Madison While
 
 Creative Technologist
 
-Building AI systems that amplify human creativity.
+Building AI systems that amplifies creativity.
 
 ────────────────────────────────────
 
