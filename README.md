@@ -12,7 +12,7 @@ Currently Building
 • Organic Content Engine
 • Campaign Engine
 
-Currently Learning
+Currently Focus
 
 • Python
 • Claude Code
